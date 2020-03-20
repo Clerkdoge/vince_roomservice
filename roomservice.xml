@@ -1,0 +1,5 @@
+<manifest>
+  <project name="Blacksuan19/android_device_xiaomi_vince" path="device/xiaomi/vince" remote="github" revision="havoc-10" />
+  <project name="Blacksuan19/android_kernel_dark_ages" path="kernel/xiaomi/vince" remote="github" revision="darky" />
+  <project name="Blacksuan19/android_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="10" />
+</manifest>
