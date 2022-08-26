@@ -1,6 +1,6 @@
 <manifest>
-  <project name="crdroidandroid/android_device_xiaomi_vince" path="device/xiaomi/vince" remote="github" revision="10.0" />
-  <project name="crdroidandroid/android_kernel_xiaomi_vince" path="kernel/xiaomi/vince" remote="github" revision="10.0" />
-  <project name="crdroidandroid/android_vendor_xiaomi_msm8953-common" path="vendor/xiaomi" remote="github" revision="10.0" />
+  <project name="ResurrectionRemix-Devices/android_device_xiaomi_vince" path="device/xiaomi/vince" remote="github" revision="Q" />
+  <project name="InAnskr/android_kernel_xiaomi_vince" path="kernel/xiaomi/vince" remote="github" revision="10.0" />
+  <project name="InAnskr/android_vendor_xiaomi_msm8953-common" path="vendor/xiaomi" remote="github" revision="10.0" />
   <project name="crdroidandroid/android_device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="github" revision="10.0" />
 </manifest>
